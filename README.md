@@ -1,4 +1,4 @@
-# transmission-dokcer
+# transmission-docker
 <p align="left">
 <a href="https://hub.docker.com/r/ox1de/transmission">
         <img src="https://img.shields.io/badge/Docker%20HUB-transmission-yellow?style=for-the-badge&logo=docker"
